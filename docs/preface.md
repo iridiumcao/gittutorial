@@ -1,8 +1,4 @@
-# 📖 Git 保姆级实验教程——前言
-
-[首页🏠](index.md) - [下一章⇨](01.md)
-
----
+# 前言
 
 这些年看过好些 git 资料，各有各的好，但总觉得差那么点意思，或太浅，或太深，或太零散，就想到自己写一套全系列教程帮助理解。
 
@@ -71,7 +67,3 @@
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-
----
-
-[首页🏠](index.md) - [下一章⇨](01.md)

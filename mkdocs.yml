@@ -1,0 +1,21 @@
+site_name: Git 保姆级实验教程
+nav:
+  - Home: index.md
+  - 前言·阅读建议: preface.md
+  - 第一章 Git 的诞生: 01.md
+  - 第二章 版本和版本管理: 02.md
+  - 第三章 安装 Git: 03.md
+  - 第四章 Hello World: 04.md
+  - 第五章 Git Repository 的目录结构: 05.md
+  - 第六章 文档的版本操作: 06.md
+  - 第七章 修改历史: 07.md
+  - 第八章 分支(Branch): 08.md
+  - 第九章 远程交互: 09.md
+  - 第十章 标签(Tag): 10.md
+  - 第十一章 清理仓库: 11.md
+  - 第十二章 子模块(Submodule): 12.md
+  - 第十三章 创建和使用 Git 服务节点: 13.md
+  - 第十四章 了解仓库状态: 14.md
+  - 第十五章 Git 配置: 15.md
+  - 第十六章 谈谈 GUI 客户端: 16.md
+theme: readthedocs
